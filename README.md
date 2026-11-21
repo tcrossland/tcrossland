@@ -6,6 +6,7 @@ Most of what I've published recently I built with Claude Code.
 - [mailcellar](https://github.com/mailcellar/mailcellar), a local backup of Gmail and other mail that can move old mail out of the mailbox and back again
 - [stat-arb-from-scratch](https://github.com/tcrossland/stat-arb-from-scratch), which tests whether a mean-reversion signal in US stocks survives trading costs (so far it doesn't)
 - [claude-code-methodology](https://github.com/tcrossland/claude-code-methodology), a file-first way of working with Claude Code
+- [rust-quotient-filter](https://github.com/tcrossland/rust-quotient-filter), a 2016 quotient filter prototype in Rust for deduplicating Kafka message IDs, now fixed and measured: 100 million IDs in about 540 MB
 - [spacy-annotator](https://github.com/tcrossland/spacy-annotator), a 2017 web app for tagging named entities in text and training a spaCy model on them
 
 To get in touch, [open an issue](https://github.com/tcrossland/tcrossland/issues/new) on this repo.
