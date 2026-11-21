@@ -9,4 +9,4 @@ Most of what I've published recently I built with Claude Code.
 - [rust-quotient-filter](https://github.com/tcrossland/rust-quotient-filter), a 2016 quotient filter prototype in Rust for idempotent Kafka consumers
 - [spacy-annotator](https://github.com/tcrossland/spacy-annotator), a 2017 web app for tagging named entities in text and training a spaCy model on them
 
-To get in touch, [open an issue](https://github.com/tcrossland/tcrossland/issues/new) on this repo.
+I'm open to contract work and collaboration. To get in touch, [open an issue](https://github.com/tcrossland/tcrossland/issues/new) on this repo.
