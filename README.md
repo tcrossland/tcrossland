@@ -1,7 +1,6 @@
 # Tom Crossland
 
-I'm a software engineer. For years most of my work was on the JVM (Grails, Spring, Camunda),
-with detours into Elixir and Rust. Most of what I've published recently I built with Claude Code.
+Most of what I've published recently I built with Claude Code.
 
 - [github-curator](https://github.com/tcrossland/github-curator), a Claude plugin that reviews the repos on a GitHub account and recommends what to do with each one
 - [mailcellar](https://github.com/mailcellar/mailcellar), a local backup of Gmail and other mail that can move old mail out of the mailbox and back again
