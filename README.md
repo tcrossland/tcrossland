@@ -9,10 +9,4 @@ I'm a software and data architect, and I now build tools and small research proj
 - [rust-quotient-filter](https://github.com/tcrossland/rust-quotient-filter), a 2016 quotient filter prototype in Rust for idempotent Kafka consumers
 - [spacy-annotator](https://github.com/tcrossland/spacy-annotator), a 2017 web app for tagging named entities in text and training a spaCy model on them
 
-I've also had changes merged into other people's projects, among them:
-
-- [Erlang/OTP](https://github.com/erlang/otp): a fix to the wx build on systems without `GL/glu.h`
-- [Grails Spring Security](https://github.com/apache/grails-spring-security): access rules for asset-pipeline files, and a transaction around reading persistent logins
-- [Dataloader](https://github.com/absinthe-graphql/dataloader) for Elixir: the key-value source now passes its options on, and they're documented
-
 I'm open to contract work and collaboration. To get in touch, [open an issue](https://github.com/tcrossland/tcrossland/issues/new) on this repo.
